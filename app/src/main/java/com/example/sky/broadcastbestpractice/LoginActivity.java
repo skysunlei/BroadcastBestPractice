@@ -19,7 +19,6 @@ public class LoginActivity extends BaseActivity {
     private SharedPreferences sharedPreferences;
     private SharedPreferences.Editor editor;
     private CheckBox checkBox;
-    private Button button;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
